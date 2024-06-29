@@ -6,3 +6,5 @@ The content addresses physics problems that have to do with, mainly, (1D and 2D)
 Some minor changes have been made to them after receiving grades and feedback.
 
 I hope they can be useful.
+
+Note: MAY is my name. 
